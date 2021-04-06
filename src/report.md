@@ -1,5 +1,7 @@
 #Отчёт о тестировании Сredit Card Number Validator
+
 ##Краткое описание
+
 <05/04/2021> было проведено функциональное тестирование приложения Credit Card Number Validator.
 
 На тестирование затрачено: 3 часа
@@ -15,7 +17,6 @@
 - **Тестовый сценарий**
 
 1. Скопировать код из [задачи 1.1](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
-
 2. Вставить код в среду разработки IntelligIDEA
 3. Сгенерировать валидные номера карт на сайте [Freeformatter](freeformatter.com)
 4. В IntelligIDEA в четвёртой строке кода подставлять номера в двойные кавычки
